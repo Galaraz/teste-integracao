@@ -4,8 +4,8 @@ Esse projeto é uma API base para ser utilizada na [aula sobre testes de integra
 
 No seu terminal, cmd, power shell ou bash execute os seguintes comandos:
 
-- `git clone https://github.com/tryber/nodejs-jwt-tests-base-project.git`
-- `cd nodejs-jwt-tests-base-project`
+- `git clone https://github.com/galaraz/teste-integracao.git`
+- `cd teste-integracao`
 - `npm i`
 - `npm run dev`
 
